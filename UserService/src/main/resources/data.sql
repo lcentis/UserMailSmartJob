@@ -1,0 +1,2 @@
+INSERT INTO USERS (id, name, email, password, token, is_active, created, modified, last_login)
+VALUES (1, 'Test User', 'test@example.com', 'Test1234', '0000-0000-0000', TRUE, CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP());
