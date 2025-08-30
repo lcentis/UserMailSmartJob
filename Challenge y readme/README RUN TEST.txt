@@ -1,0 +1,1 @@
+Eclipse: click derecho en el proyecto → Run As → JUnit Test.
